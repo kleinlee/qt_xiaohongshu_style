@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>DisplayPage.qml</file>
+        <file>main.qml</file>
+        <file>Rect_ImageMsg.qml</file>
+    </qresource>
+</RCC>
